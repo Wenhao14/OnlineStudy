@@ -1,0 +1,141 @@
+
+body
+{
+	font-size:12px;
+	margin:0 auto;
+	width:85%;
+}
+.main_page
+{
+	width:100%;
+	height:100%;
+}
+.title
+{
+	width:100%;
+	height:175px;
+	background-size:cover;
+	text-align:center;
+	background-color:#B8D5E5;
+}
+
+.choose
+{
+	height:40px;
+	background-color:black;
+	width:100%;
+	text-align:center;
+	margin:0 auto;
+}
+
+.navil
+{
+	float:left;
+	width:100%;
+	padding-top:6px;
+	margin:0 auto;
+	list-style-type:none;
+}
+
+.navil ul
+{
+	text-align:center;
+	width:100%;
+	display:inline;
+}
+
+.navil li
+{
+	display:inline;
+	font-size:18px;
+}
+.navil a
+{
+	padding:0 20px;
+	width:100px;
+	text-decoration:none;
+	color:white;
+	border-left:1px solid white;
+}
+.navil a:hover {background-color:#ff3300}
+
+
+.left
+{
+	width:18%;
+	height:400px;
+	float:left;
+	background-color:#EEE8E1;
+	text-align:center;
+}
+
+.bt_log
+{
+	border:none;
+	background: url("../img/login.gif") no-repeat center;
+}
+
+.login
+{
+	margin-top:75px;
+	font-size:25px;
+	color:red;
+}
+
+.login input
+{
+	border:1px solid red;
+	height:30px;
+	width:150px;
+}
+
+
+.middle
+{
+	float:left;
+	width:65%;
+	height:400px;
+	background-color:blue;
+}
+
+.right
+{
+	float:right;
+	width:17%;
+	height:400px;
+	overflow:hidden;
+	background-color:#F2F1F1;
+}
+
+.right_head 
+{
+	height:50px;
+	padding-top:5px;
+	position:relative;
+}
+ .right_head img
+ {
+	width:100%;
+	height:50px;
+ }
+ .right span
+ {
+	position:absolute; 
+	top:15px;
+	left:35%;
+	font-size:15px;
+	z-index:2;
+ }
+
+.right_main 
+{   
+	text-decoration:none;
+	padding-left:10px;
+	text-align:left;
+	font-size:14px;
+	color:#F5BF50;
+}
+.hr{
+	size:3px;
+	color:#F5BF50;
+}

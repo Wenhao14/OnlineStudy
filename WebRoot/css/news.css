@@ -1,0 +1,25 @@
+body{
+	margin:0 auto;
+}
+.main{
+	margin:auto;
+	width:80%;
+	height:100%;
+	background-color:#C47E7E
+}
+.tab1{
+	margin:auto;
+	width:80%;
+	height:280px;
+}
+.tab2{
+	margin:auto;
+	width:80%;
+	height:220px;
+	
+}
+.text{
+	font-size:20px;
+	color:blue;
+	font-family:"Î¢ÈíÑÅºÚ","ËÎÌå";
+}
